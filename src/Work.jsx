@@ -58,11 +58,6 @@ class Work extends React.Component{
         </div>
         </div>
         </div>
-     
-          <div className="card-body text-center">
-   <center> <button type="button" className="btn1 btn-primary mt-2"><a href="img/Saikat Paul Chowdhury CV.pdf" class="link1" style={{color:"white"}} ><i class="fa fa-download"></i> Download My Resume</a></button></center>
-   <center> <button type="button" className="btn1 btn-danger mt-2"><a href="https://github.com/Saikat-inst" class="link2" style={{color:'white'}}>Visit my Github</a></button></center>
-          </div>
           
           </>
         )
